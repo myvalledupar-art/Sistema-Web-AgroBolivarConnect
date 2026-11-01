@@ -1,0 +1,8 @@
+body { font-family: Arial; background: #f4f8f4; margin:0; }
+header { background: #2e7d32; color:white; padding:20px; text-align:center; }
+nav { background: #4caf50; padding:10px; text-align:center; }
+nav a { color:white; margin:0 15px; text-decoration:none; font-weight:bold; }
+main { padding:20px; }
+table { width:100%; background:white; border-collapse:collapse; margin-top:15px; }
+th, td { border:1px solid #ccc; padding:8px; }
+th { background:#2e7d32; color:white; }
