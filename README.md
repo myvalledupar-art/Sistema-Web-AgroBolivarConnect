@@ -1,5 +1,4 @@
-cd C:\Users\Ingan\Desktop\AgroBolivarConnect
-@'
+
 # 🌱 AgroBolívar Connect
 
 ### Sistema Web para la Gestión y Comercialización de Productos Agrícolas del Departamento de Bolívar
